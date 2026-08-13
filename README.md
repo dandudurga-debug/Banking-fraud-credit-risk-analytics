@@ -1,7 +1,5 @@
 # Banking-fraud-credit-risk-analytics
 
-BANKING FRAUD, CREDIT RISK & TRANSACTION ANALYTICS
-GitHub Project README
 SQL | Python | Power BI | Machine Learning
 1. Project Overview
 This project is an end-to-end banking analytics solution designed to analyze customer profiles, loan applications, credit risk, fraud cases and financial transactions. The project combines SQL for analytical querying, Python for data analysis and machine learning, and Power BI for interactive business reporting.
